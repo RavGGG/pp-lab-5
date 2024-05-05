@@ -1,6 +1,5 @@
 import company.beans.Person;
 import company.implementations.EmailMessenger;
-import company.interfaces.Messenger;
 
 public class Main {
     public static void main(String[] args) {
